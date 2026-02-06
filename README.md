@@ -14,4 +14,5 @@
 ![rest_api](3_1_task.png)
 
 ### 3.2:
-(файл 3_2_task.vsdx)
+![3.2.1](3_2_1_task.png)
+![3.2.2](3_2_2_task.png)
